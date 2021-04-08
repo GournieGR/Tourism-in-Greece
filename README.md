@@ -4,4 +4,4 @@ A program that has been made to show users the tourism that came to Greece in th
 
 # Data Visualization 
 
-<img src="Figures/"
+<img src="Figures/Tourist Arrivals in Greece.png">
