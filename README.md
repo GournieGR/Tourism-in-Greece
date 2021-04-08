@@ -5,3 +5,11 @@ A program that has been made to show users the tourism that came to Greece in th
 # Data Visualization 
 
 <img src="Figures/Tourist Arrivals in Greece.png">
+
+<img src="Figures/Tourist Arrivals per Countries.png">
+
+<img src="Figures/Tourist Arrivals per metaphor.png">
+
+<img src="Figures/Tourist Arrivals per three months.png">
+
+
